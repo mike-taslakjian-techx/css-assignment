@@ -8,14 +8,21 @@ Thoroughly analyze this page using your browser's developer tools to understand 
 🛠️ Getting Started
 
 Analyze Target: Navigate through the https://css-assignment-cm.vercel.app/.
+
 Repo Setup: Create a new GitHub repository. Clone it locally.
+
 Develop: Start with index.html and style.css. Build your replication.
 
 ✅ Key Focus Areas
 
 Replicate the target page's visual, demonstrating proficiency in:
+
 Structural Layout: Element positioning and alignment.
+
 Aesthetics: Colors, typography, shadows, borders, gradients.
+
 Interactivity: Hover effects, form states etc
+
 Responsiveness: Adapting gracefully across all screen sizes.
+
 Component Styling: Custom appearance of forms and tables.
